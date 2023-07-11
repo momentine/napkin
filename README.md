@@ -2,7 +2,7 @@
 
 A sticky note cross-platform desktop application developed using Electron, Vite 2, Vue 3, TypeScript, and Electron Builder.
 
-Napkin is named after *"napkin notes,"* which refers to casual handwritten notes made on a napkin or any available piece of paper. It captures the essence of impromptu ideas being captured in a spontaneous manner.
+Napkin is named after *"napkin notes,"* which refers to casual handwritten notes made on a napkin or any available piece of paper. It captures the essence of impromptu ideas.
 
 ## User Interface (How Napkin Differs from Traditional Sticky Note Apps)
 
@@ -54,9 +54,9 @@ yarn build or npm run build
 - Each note supports a maximum of 200 characters.
 - Sound/audio settings are not functional at the moment.
 - *Permanetly delete* feature does not work when a note is placed under  ***→*** or ***⚠***
-- To change the background sticker options to your own images or gifs, upload your desired images or gifs to the **Public** directory and update the array:
+- To change the background sticker options to your own images or gifs, upload your desired images or gifs to the **Public** directory and update the array: 
 ```
-  background: fade(#414141, 50%);
+background: fade(#414141, 50%);
 ```
 within 
 ```
@@ -68,22 +68,20 @@ within
   transition: all 0.3s ease-out;
 }
 ```
-- If users want to change the bacground sticker options to their own images or gifs, upload your own images or gifs to the **Public** directory and change the array 
-
+- If users want to change the bacground sticker options to their own images or gifs, upload files to the **Public** directory and change the array to reflect the file names: 
 ```
-const stickers = ["sticker.png", "sticker1.png", "sticker3.png"];
+const stickers = ["sticker.png", "sticker1.png", "sticker2.png"];
 ```
 within 
 ```
 // Stickers
-const stickers = ["sticker.png", "sticker1.png", "sticker3.png"];
+const stickers = ["sticker.png", "sticker1.png", "sticker2.png"];
 const selectedSticker = ref(null);
 const stickerPickerVisible = ref(false);
 function showStickerPicker() {
   stickerPickerVisible.value = true;
 }
 ```
-to reflect the names of your own images and gifs.
 - Resizing of the window may cause issues when a background is set.
 - Proportions of the stickers need to be improved.
 - Running multiple instances of Napkin requires launching separate instances of the program.

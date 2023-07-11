@@ -6,8 +6,8 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 
 ## User Interface (How Napkin Differs from Traditional Sticky Note Apps)
 
-- The application drops down like a napkin.
-- It can be hidden or locked.
+- Drops down and is shaped like a rectangular napkin.
+- Window can be hidden or locked.
 - Offers a transparent and customizable background.
 - Acts as a todo or reminder app as well.
 
@@ -33,11 +33,15 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 - [x] Change or reset the background by clicking ***+ Background***.
 - [ ] ..........
 
-## Napkin friends 
+## Napkin Friends 
 
-A series of stickers launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
+A series of 3 stickers launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
 
-These stickers are provided as default options that can be set as your background.
+![bunny](./public/bunny.png)
+![Dear](./public/bear.png)
+![sheep](./public/sheep.png)
+
+These stickers are provided as default options that can be set as the background. 
 
 Gif versions coming soon. 
  
@@ -54,11 +58,11 @@ yarn build or npm run build
 - Each note supports a maximum of 200 characters.
 - Sound/audio settings are not functional at the moment.
 - *Permanetly delete* feature does not work when a note is placed under  ***→*** or ***⚠***
-- To change the background sticker options to your own images or gifs, upload your desired images or gifs to the **Public** directory and update the array: 
+- To change the background colo, update the hex value within the **.home** class in the **index.vue** file located in the **Home** directory:
 ```
-background: fade(#414141, 50%);
+background: fade(#[desired hex color], 50%);
 ```
-within 
+from
 ```
 .home {
   position: relative;
@@ -68,11 +72,12 @@ within
   transition: all 0.3s ease-out;
 }
 ```
-- If users want to change the bacground sticker options to their own images or gifs, upload files to the **Public** directory and change the array to reflect the file names: 
+- To change the background sticker options to reflect your desired images or gifs, upload the files to the **Public** directory and update the array with the corresponding file names: 
+```
 ```
 const stickers = ["sticker.png", "sticker1.png", "sticker2.png"];
 ```
-within 
+from
 ```
 // Stickers
 const stickers = ["sticker.png", "sticker1.png", "sticker2.png"];

@@ -37,9 +37,11 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 
 A series of 3 stickers launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
 
-<img src="./public/bunny.png" alt="Bunny" width="100" height="100" />
-<img src="./public/bear.png" alt="Bear" width="100" height="100" />
-<img src="./public/sheep.png" alt="Sheep" width="100" height="100" />
+<div style="display: flex;">
+  <img src="./public/bunny.png" alt="Bunny" width="100" height="100" />
+  <img src="./public/bear.png" alt="Bear" width="100" height="100" />
+  <img src="./public/sheep.png" alt="Sheep" width="100" height="100" />
+</div>
 
 These stickers are provided as default options that can be set as the background. 
 

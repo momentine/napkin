@@ -14,6 +14,7 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 ## Preview
 
 ![Display](./md/1.png)
+![Display](./md/2.gif)
 
 ## Included Features
 

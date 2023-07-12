@@ -11,9 +11,9 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 - Offers a transparent and customizable background.
 - Acts as a todo or reminder app as well.
 
-## Preview
+## Demo
 
-![welcome](https://github.com/momentine/napkin/assets/79717797/4883f9e8-d168-4459-ac91-5c7444b21090)
+https://github.com/momentine/napkin/assets/79717797/b688f213-c550-486f-abfc-4129bfed6367
 
 ## Included Features
 

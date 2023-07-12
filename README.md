@@ -37,7 +37,7 @@ https://github.com/momentine/napkin/assets/79717797/f5ad73f7-51b3-427c-9940-1238
 
 ## Napkin Friends 
 
-A series of 3 cute companions launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
+A sticker series of 3 cute companions launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
 
 <div style="display: flex;">
   <img src="./public/bear.png" alt="Bear" width="100" height="100" />

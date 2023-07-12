@@ -1,6 +1,6 @@
 # Napkin
 
-A sticky note cross-platform desktop application developed using Electron, Vite 2, Vue 3, TypeScript, and Electron Builder.
+A sticky notes cross-platform desktop application developed using Electron, Vite 2, Vue 3, TypeScript, and Electron Builder.
 
 Napkin is named after *"napkin notes,"* which refers to casual handwritten notes made on a napkin or any available piece of paper. It captures the essence of impromptu ideas.
 

@@ -4,6 +4,8 @@ A sticky notes cross-platform desktop application developed using Electron, Vite
 
 Napkin is named after *"napkin notes,"* which refers to casual handwritten notes made on a napkin or any available piece of paper. It captures the essence of impromptu ideas.
 
+https://github.com/momentine/napkin/assets/79717797/02d75216-0e8e-4667-acc9-937a1bf92ce0
+
 ## User Interface (How Napkin Differs from Traditional Sticky Note Apps)
 
 - Drops down and is shaped like a rectangular napkin.

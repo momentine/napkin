@@ -59,7 +59,6 @@ Gif versions coming soon.
 ```
 yarn or npm install
 yarn dev or npm run dev
-yarn build or npm run build
 ```
 
 ## Known Issues & Development

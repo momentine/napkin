@@ -13,8 +13,7 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 
 ## Preview
 
-![Display](./md/1.png)
-![Display](./md/2.gif)
+![welcome](./md/2.gif)
 
 ## Included Features
 
@@ -76,7 +75,6 @@ from
 }
 ```
 - To change the background sticker options to reflect your desired images or gifs, upload the files to the **Public** directory and update the array with the corresponding file names: 
-```
 ```
 const stickers = ["sticker.png", "sticker1.png", "sticker2.png"];
 ```

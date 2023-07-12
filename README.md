@@ -14,6 +14,7 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 ## Preview
 
 ![welcome](./md/2.gif)
+![welcome](./md/3.mov)
 
 ## Included Features
 
@@ -35,12 +36,17 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 
 ## Napkin Friends 
 
-A series of 3 stickers launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
+A series of 3 cute companions launched with Napkin (art created by [@kimuchicat](https://github.com/kimuchicat)).
 
 <div style="display: flex;">
-  <img src="./public/bunny.png" alt="Bunny" width="100" height="100" />
   <img src="./public/bear.png" alt="Bear" width="100" height="100" />
+  <img src="./public/bunny.png" alt="Bunny" width="100" height="100" />
   <img src="./public/sheep.png" alt="Sheep" width="100" height="100" />
+</div>
+
+<div style="display: flex;">
+  <img src="./public/bear1.png" alt="Bear" width="100" height="100" />
+  <img src="./public/bunny1.png" alt="Bunny" width="100" height="100" />
 </div>
 
 These stickers are provided as default options that can be set as the background. 

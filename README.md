@@ -14,7 +14,7 @@ Napkin is named after *"napkin notes,"* which refers to casual handwritten notes
 ## Preview
 
 ![welcome](./md/2.gif)
-https://github.com/momentine/napkin/blob/master/md/3.mov
+https://github.com/momentine/napkin/assets/79717797/4883f9e8-d168-4459-ac91-5c7444b21090
 
 ## Included Features
 

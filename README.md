@@ -65,7 +65,7 @@ yarn build or npm run build
 - Each note supports a maximum of 200 characters.
 - Sound/audio settings are not functional at the moment.
 - *Permanetly delete* feature does not work when a note is placed under  ***→*** or ***⚠***
-- To change the background colo, update the hex value within the **.home** class in the **index.vue** file located in the **Home** directory:
+- To change the background color, update the hex value within the **.home** class in the **index.vue** file located in the **Home** directory:
 ```
 background: fade(#[desired hex color], 50%);
 ```
@@ -98,6 +98,8 @@ function showStickerPicker() {
 - Running multiple instances of Napkin requires launching separate instances of the program.
 
 ## Future Add-On Ideas (That Might Require Further Exploration)
+- Adjustable opacity.
+- Custom stickers.
 - Enabling collaboration on Napkin.
 - Leveraging large language models to provide analysis of weekly deleted or completed notes.
 - Implementing more animations, such as a visual representation of a napkin being folded up and tossed in a trash bin.

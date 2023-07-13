@@ -95,7 +95,7 @@ const initInfo = () => {
 };
 
 // Stickers
-const stickers = ["bear.png", "bunny.png", "sheep.png", "bear1.png", "bunny1.png"];
+const stickers = ["bear.png", "bunny.png", "sheep.png", "bear1.png", "bunny1.png", "sheep1.png"];
 const selectedSticker = ref(null);
 const stickerPickerVisible = ref(false);
 function showStickerPicker() {

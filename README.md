@@ -48,6 +48,7 @@ A sticker series of 3 cute companions launched with Napkin (art created by [@kim
 <div style="display: flex;">
   <img src="./public/bear1.png" alt="Bear" width="100" height="100" />
   <img src="./public/bunny1.png" alt="Bunny" width="100" height="100" />
+    <img src="./public/sheep1.png" alt="Sheep" width="100" height="100" />
 </div>
 
 These stickers are provided as default options that can be set as the background. 
